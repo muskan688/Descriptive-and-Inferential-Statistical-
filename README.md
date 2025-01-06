@@ -11,7 +11,8 @@ Attributes:
 - Ripeness: Stage of ripeness of the fruit
 - Acidity: Acidity level of the fruit
 - Quality: Overall quality of the fruit
-- Data Source: https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
+
+ Data Source: https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
 
 • Download Instructions:
 
