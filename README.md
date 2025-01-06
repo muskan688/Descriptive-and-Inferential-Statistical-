@@ -1,19 +1,20 @@
-# Exploring Drowsiness Patterns in Wearable Device Data
+# Sweet Insights: A Statistical Exploration of Apple Quality Using Python"
 
-Dataset Details-
+Attributes:
 
-Columns:
-
-- heartRate: Heart rate readings from the smartwatch sensors.
-- ppgGreen, ppgRed, ppgIR: PPG (Photoplethysmography) sensor readings in green, red, and infrared wavelengths respectively.
-- drowsiness: Label indicating the level of drowsiness based on an adapted Karolinska Sleepiness Scale (KSS). Values range from 0.0 to 2.0, where 0.0 represents alertness and 2.0 represents significant drowsiness.
-
-Dataset Access:
-
-• Link :https://www.kaggle.com/datasets/vitoraugustx/drowsiness-dataset
+- A_id: Unique identifier for each fruit
+- Size: Size of the fruit
+- Weight: Weight of the fruit
+- Sweetness: Degree of sweetness of the fruit
+- Crunchiness: Texture indicating the crunchiness of the fruit
+- Juiciness: Level of juiciness of the fruit
+- Ripeness: Stage of ripeness of the fruit
+- Acidity: Acidity level of the fruit
+- Quality: Overall quality of the fruit
+- Data Source: https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
 
 • Download Instructions:
 
 - Visit the provided Kaggle dataset link.
 - Sign in to your Kaggle account (or create one if you don't have it).
-- Click on the "Download" button to download the dataset (drowsiness_dataset.csv).
+- Click on the "Download" button to download the dataset (apple_quality.csv).
