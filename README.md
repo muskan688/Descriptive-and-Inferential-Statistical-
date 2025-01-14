@@ -1,4 +1,5 @@
 # Sweet Insights: A Statistical Exploration of Apple Quality Using Python"
+(Mastering Descriptive and Inferential Statistics with Python)
 
 Attributes:
 
